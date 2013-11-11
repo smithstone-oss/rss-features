@@ -7,6 +7,6 @@ Feature: Check Application is running
     When I check the application status
     Then I should see that the application is funtioning correctly
 
-    
+
 
 
